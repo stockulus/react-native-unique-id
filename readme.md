@@ -1,36 +1,19 @@
-seq-id-generator-react-native
+react-native-unique-id
 ====
 generates an sequence id (1, 2, 3, 4...), based on asyncstorage
 
 ### Usage
 
 ```bash
-npm i seq-id-generator-react-native
+npm install react-native-unique-id --save
 ```
 
 ```js
-const name = 'purchase'
-const seqIdGenerator = require('seq-id-generator-react-native')
+const uniqueId = require('react-native-unique-id')
 
-seqIdGenerator(name)
-  .then((generator) => generator.next())
+uniqueId()
   .then((id) => console.log(id))
   .catch((error) => console.error(error))
-
-// with formating Function
-seqIdGenerator(name, id => `A-${id}`)
-  .then((generator) => generator.next())
-  .then((id) => console.log(id))
-  .catch((error) => console.error(error))
-
-// or callback style
-seqIdGenerator(name, null, (error, generator) => {
-  if (error) return console.error(error)
-  generator.next((error, id) => {
-    if (error) return console.error(error)
-    console.log(id)
-  })
-})
 
 ```
 

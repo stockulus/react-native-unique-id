@@ -1,7 +1,7 @@
 {
   "name": "react-native-unique-id",
   "version": "1.0.0",
-  "description": "create a guid and stores it in the Async Storage",
+  "description": "generates a guid and stores it in the async store",
   "main": "index.js",
   "scripts": {
     "test": "node ./node_modules/standard/bin/cmd.js && ./node_modules/tape/bin/tape ./tests/**/*.js | ./node_modules/faucet/bin/cmd.js",
