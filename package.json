@@ -1,0 +1,39 @@
+{
+  "name": "react-native-unique-id",
+  "version": "1.0.0",
+  "description": "create a guid and stores it in the Async Storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/standard/bin/cmd.js && ./node_modules/tape/bin/tape ./tests/**/*.js | ./node_modules/faucet/bin/cmd.js",
+    "updtr": "updtr --save-exact"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stockulus/seq-id-generator-react-native.git"
+  },
+  "keywords": [
+    "guid",
+    "asyncstorage",
+    "unique-id"
+  ],
+  "author": "Christoph Stock (@stockulus)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stockulus/seq-id-generator-react-native/issues"
+  },
+  "homepage": "https://github.com/stockulus/seq-id-generator-react-native#readme",
+  "dependencies": {
+    "polygoat": "1.1.4"
+  },
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "react": "15.2.1",
+    "react-native": "0.30.0",
+    "react-native-mock": "0.2.5",
+    "standard": "7.1.2",
+    "tape": "4.6.0"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.25.0"
+  }
+}
