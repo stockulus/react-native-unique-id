@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stockulus/seq-id-generator-react-native.git"
+    "url": "git+https://github.com/stockulus/react-native-unique-id.git"
   },
   "keywords": [
     "guid",
@@ -19,9 +19,9 @@
   "author": "Christoph Stock (@stockulus)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stockulus/seq-id-generator-react-native/issues"
+    "url": "https://github.com/stockulus/react-native-unique-id/issues"
   },
-  "homepage": "https://github.com/stockulus/seq-id-generator-react-native#readme",
+  "homepage": "https://github.com/stockulus/react-native-unique-id#readme",
   "dependencies": {
     "polygoat": "1.1.4"
   },
