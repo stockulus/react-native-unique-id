@@ -1,6 +1,6 @@
 react-native-unique-id
 ====
-generates an sequence id (1, 2, 3, 4...), based on asyncstorage
+generates a guid and stores it in the async store
 
 ### Usage
 
