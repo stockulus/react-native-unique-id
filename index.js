@@ -23,9 +23,7 @@ const generate = () => {
  */
 module.exports = function uniqueId (callback) {
   return polygoat(done => {
-    if (id) {
-      return done(null, id)
-    }
+    if (id) return done(null, id)
 
     AsyncStorage.getItem('__uniqueId', (error, data) => {
       if (error || !data) {
