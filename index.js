@@ -18,7 +18,6 @@ const generate = () => {
 }
 
 /**
- * Factory function for the generator
  * @param {function} [callback]
  * @return {Promise} if uses without callback
  */
