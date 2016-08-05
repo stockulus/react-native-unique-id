@@ -1,6 +1,6 @@
 {
   "name": "react-native-unique-id",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "generates a guid and stores it in the async store",
   "main": "index.js",
   "scripts": {
@@ -28,7 +28,7 @@
   "devDependencies": {
     "faucet": "0.0.1",
     "react": "15.2.1",
-    "react-native": "0.30.0",
+    "react-native": "0.31.0",
     "react-native-mock": "0.2.5",
     "standard": "7.1.2",
     "tape": "4.6.0"

@@ -2,6 +2,7 @@ react-native-unique-id
 ====
 generates a guid and stores it in the async store
 
+[![bitHound Overall Score](https://www.bithound.io/github/stockulus/react-native-unique-id/badges/score.svg)](https://www.bithound.io/github/stockulus/react-native-unique-id) [![npm Package](https://img.shields.io/npm/dm/react-native-unique-id.svg)](https://www.npmjs.com/package/react-native-unique-id) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/) [![license](https://img.shields.io/npm/l/react-native-unique-id.svg?maxAge=2592000)](https://opensource.org/licenses/MIT)
 ### Usage
 
 ```bash
@@ -18,7 +19,4 @@ uniqueId()
 ```
 
 ---
-Feedback welcome:
-Twitter: [@stockulus](https://twitter.com/stockulus)
-
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&maxAge=2592000)](https://twitter.com/stockulus)
