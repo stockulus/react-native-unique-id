@@ -29,7 +29,7 @@
     "faucet": "0.0.1",
     "react": "15.2.1",
     "react-native": "0.31.0",
-    "react-native-mock": "0.2.5",
+    "react-native-mock": "0.2.6",
     "standard": "7.1.2",
     "tape": "4.6.0"
   },
