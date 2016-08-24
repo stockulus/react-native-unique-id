@@ -30,7 +30,7 @@
     "react": "15.2.1",
     "react-native": "0.31.0",
     "react-native-mock": "0.2.6",
-    "standard": "7.1.2",
+    "standard": "8.0.0",
     "tape": "4.6.0"
   },
   "peerDependencies": {
