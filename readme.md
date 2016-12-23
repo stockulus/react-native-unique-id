@@ -21,7 +21,7 @@ uniqueId()
 
 // or callback style
 
-uniqueId((id, error) => {
+uniqueId((error, id) => {
   if (error) return console.error(error)
   console.log(id)
 })
