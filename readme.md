@@ -30,3 +30,4 @@ uniqueId((id, error) => {
 
 ---
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&maxAge=2592000)](https://twitter.com/stockulus)
+[![GitHub stars](https://img.shields.io/github/stars/stockulus/react-native-unique-id.svg?style=social&label=Star)](https://github.com/stockulus/react-native-unique-id)
