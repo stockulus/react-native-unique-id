@@ -1,6 +1,6 @@
 {
   "name": "react-native-unique-id",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "generates a guid and stores it in the async store",
   "main": "index.js",
   "scripts": {
