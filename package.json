@@ -28,8 +28,8 @@
   "devDependencies": {
     "faucet": "0.0.1",
     "react": "15.4.2",
-    "react-native": "0.41.0",
-    "react-native-mock": "0.2.9",
+    "react-native": "0.41.2",
+    "react-native-mock": "0.3.1",
     "standard": "8.6.0",
     "tape": "4.6.3"
   },
