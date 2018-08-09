@@ -28,10 +28,10 @@
   "devDependencies": {
     "faucet": "0.0.1",
     "react": "15.6.1",
-    "react-native": "0.47.1",
+    "react-native": "0.56.0",
     "react-native-mock": "0.3.1",
-    "standard": "10.0.3",
-    "tape": "4.8.0"
+    "standard": "11.0.1",
+    "tape": "4.9.1"
   },
   "peerDependencies": {
     "react-native": ">=0.25.0"
