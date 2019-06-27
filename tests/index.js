@@ -1,9 +1,9 @@
 require('react-native-mock/mock')
+import AsyncStorage from '@react-native-community/async-storage';
 
 const test = require('tape')
 
 const uniqueId = require('../index')
-const AsyncStorage = require('react-native').AsyncStorage
 
 let theId
 

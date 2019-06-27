@@ -26,6 +26,7 @@
     "polygoat": "1.1.4"
   },
   "devDependencies": {
+    "@react-native-community/async-storage": "^1.5.0",
     "faucet": "0.0.1",
     "react": "15.6.1",
     "react-native": "0.56.0",
