@@ -4,7 +4,8 @@
   "description": "generates a guid and stores it in the async store",
   "main": "index.js",
   "scripts": {
-    "test": "node ./node_modules/standard/bin/cmd.js && ./node_modules/tape/bin/tape ./tests/**/*.js | ./node_modules/faucet/bin/cmd.js",
+    "test": "node ./node_modules/standard/bin/cmd.js",
+    "tape": "./node_modules/tape/bin/tape ./tests/**/*.js | ./node_modules/faucet/bin/cmd.js",
     "updtr": "updtr --save-exact"
   },
   "repository": {
