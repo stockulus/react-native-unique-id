@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/stockulus/react-native-unique-id#readme",
   "dependencies": {
-    "@react-native-community/async-storage": "1.5.0",
+    "@react-native-async-storage/async-storage": "1.17.5",
     "polygoat": "1.1.4"
   },
   "devDependencies": {
